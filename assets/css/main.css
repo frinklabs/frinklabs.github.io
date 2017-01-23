@@ -57,6 +57,9 @@
 
 /* Grid */
 
+  .meeteam{
+		color: Black;
+	}
 	.row {
 		border-bottom: solid 1px transparent;
 		-moz-box-sizing: border-box;
