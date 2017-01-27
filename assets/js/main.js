@@ -7,6 +7,10 @@ $("#one").hide();
 $("#buttman").click(function(){
     $("#one").show();
 });
+$("#butman").click(function(){
+    $("#one").show();
+});
+
 
 (function($) {
 
